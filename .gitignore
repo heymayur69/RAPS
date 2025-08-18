@@ -39,3 +39,28 @@
 
 # debug information files
 *.dwo
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arduino/ESP32 build artifacts
+*.bin
+*.elf
+*.hex
+*.o
+*.log
+
+# Node/website (if you add web tools later)
+node_modules/
+dist/
+build/
+
+# Python (if you add scripts later)
+__pycache__/
+*.pyc
+
+# Env/secrets (never commit secrets)
+.env
+.env.*
