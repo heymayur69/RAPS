@@ -1,66 +1,8 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
-# OS / editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Arduino/ESP32 build artifacts
+# Ignore build files
 *.bin
 *.elf
 *.hex
 *.o
 *.log
-
-# Node/website (if you add web tools later)
-node_modules/
-dist/
-build/
-
-# Python (if you add scripts later)
-__pycache__/
-*.pyc
-
-# Env/secrets (never commit secrets)
-.env
-.env.*
+.DS_Store
+.vscode/
