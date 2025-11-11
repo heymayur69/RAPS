@@ -358,13 +358,6 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) for details on our code of
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-**Project Team** - P.D.E.A.'s College of Engineering, Pune
-
-- **Guide**: Prof. S.B. Kamble
-- **Department**: Electronics & Telecommunication Engineering
-- **Institution**: PDEA's College of Engineering, Manjari Bk., Pune - 412307
 
 **Project Repository**: [https://github.com/your-username/railway-accident-prevention](https://github.com/your-username/railway-accident-prevention)
 
@@ -372,10 +365,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We express our gratitude to:
 
-- **Prof. S.B. Kamble** - Project Guide
-- **Dr. D.O. Patil** - Head of Department  
-- **Dr. R.K. Moje** - Project Coordinator
-- **P.D.E.A.'s College of Engineering** - For providing resources and support
 - **ESP32 Community** - For excellent documentation and libraries
 - **Arduino Community** - For the comprehensive IDE and libraries
 - **FreeRTOS Team** - For the robust real-time operating system
