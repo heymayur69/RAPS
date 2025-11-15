@@ -36,16 +36,7 @@
 <br />
 
 📸 Images
-
-These images showcase the real hardware implementation of the Railway Accident Prevention System.
-
-<div align="center">
-🚆 Full Railway Accident Prevention System
-<img src="docs/IMAGES/Railway_Accident_Preventation_System.jpg" alt="RAPS System" width="600">
-🚦 Signal & Level Crossing Unit
-<img src="docs/IMAGES/Signal & Level Crossing Unit .jpg" alt="Signal Unit" width="600">
-🚂 Train Unit
-<img src="docs/IMAGES/Train Unit.jpg" alt="Train Unit" width="600"> </div>
+<div align="center"> <table> <tr> <td align="center"> <img src="docs/IMAGES/Railway_Accident_Preventation_System.jpg" width="220" /><br /> <b>RAPS System</b> </td> <td align="center"> <img src="docs/IMAGES/Signal & Level Crossing Unit .jpg" width="220" /><br /> <b>Signal & Crossing Unit</b> </td> <td align="center"> <img src="docs/IMAGES/Train Unit.jpg" width="220" /><br /> <b>Train Unit</b> </td> </tr> </table> </div>
 
 ## 📋 Table of Contents
 
