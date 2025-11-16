@@ -298,7 +298,7 @@ The system operates with the following states:
 
 | Test Case | Expected Result | Actual Result | Status |
 |-----------|-----------------|---------------|---------|
-| Obstacle at 1m (LiDAR) | Emergency stop + alert | ✅ Accurate detection | PASS |
+| Track detection at 1m (LiDAR) | Emergency stop + alert | ✅ Accurate detection | PASS |
 | Obstacle at 3.5m (Ultrasonic) | Secondary detection | ✅ Backup system active | PASS |
 | IR Signal Detection | Train stops on red signal | ✅ Immediate response | PASS |
 | Bluetooth Communication | Data exchange up to 10m | ✅ Stable connection | PASS |
